@@ -1,0 +1,6 @@
+C:/Users/Administrator/CLionProjects/LearnOpengl/cmake-build-debug/CMakeFiles/LearnOpengl.dir
+C:/Users/Administrator/CLionProjects/LearnOpengl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/LearnOpengl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/CLionProjects/LearnOpengl/cmake-build-debug/extern/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/CLionProjects/LearnOpengl/cmake-build-debug/extern/glfw/CMakeFiles/glfw.dir
+C:/Users/Administrator/CLionProjects/LearnOpengl/cmake-build-debug/extern/glfw/CMakeFiles/edit_cache.dir
