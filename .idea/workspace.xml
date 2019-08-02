@@ -2,7 +2,6 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/main.cpp" />
-    <bookmark url="file://$PROJECT_DIR$/main.cpp" line="146" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
@@ -16,7 +15,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2433949-f257-4239-aad5-5567f05097e4" name="Default Changelist" comment="" />
+    <list default="true" id="e2433949-f257-4239-aad5-5567f05097e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Capture001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/awesomeface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/self.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stb_image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Shader.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shaders/Frag/frag.fs" beforeDir="false" afterPath="$PROJECT_DIR$/Shaders/Frag/frag.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shaders/Vertex/vert.fs" beforeDir="false" afterPath="$PROJECT_DIR$/Shaders/Vertex/vert.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LearnOpengl.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LearnOpengl.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LearnOpengl.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +47,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="54">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
@@ -51,17 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extern/glfw/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="843">
+            <state relative-caret-position="2430">
               <caret line="90" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="146" column="18" lean-forward="true" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+            <state relative-caret-position="254">
+              <caret line="202" column="57" selection-start-line="202" selection-start-column="57" selection-end-line="202" selection-end-column="57" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -70,10 +77,56 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stb_image.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="383" selection-start-line="383" selection-end-line="383" />
+              <folding>
+                <element signature="e#14247#14269#0" expanded="true" />
+                <element signature="e#15822#15915#0" expanded="true" />
+                <element signature="e#20719#21239#0" expanded="true" />
+                <element signature="e#21330#21350#0" expanded="true" />
+                <element signature="e#21360#21379#0" expanded="true" />
+                <element signature="e#21762#21788#0" expanded="true" />
+                <element signature="e#21879#21898#0" expanded="true" />
+                <element signature="e#21918#21951#0" expanded="true" />
+                <element signature="e#21977#22122#0" expanded="true" />
+                <element signature="e#22419#22453#0" expanded="true" />
+                <element signature="e#22525#22547#0" expanded="true" />
+                <element signature="e#22581#22616#0" expanded="true" />
+                <element signature="e#22800#22805#0" expanded="true" />
+                <element signature="e#22927#23028#0" expanded="true" />
+                <element signature="e#23433#23457#0" expanded="true" />
+                <element signature="e#23565#24057#0" expanded="true" />
+                <element signature="e#24182#24801#0" expanded="true" />
+                <element signature="e#24956#25481#0" expanded="true" />
+                <element signature="e#25967#25983#0" expanded="true" />
+                <element signature="e#26009#26143#0" expanded="true" />
+                <element signature="e#26176#26221#0" expanded="true" />
+                <element signature="e#34402#34427#0" expanded="true" />
+                <element signature="e#34467#34503#0" expanded="true" />
+                <element signature="e#40948#41317#0" expanded="true" />
+                <element signature="e#41378#41572#0" expanded="true" />
+                <element signature="e#41715#42095#0" expanded="true" />
+                <element signature="e#42144#42192#0" expanded="true" />
+                <element signature="e#47396#47452#0" expanded="true" />
+                <element signature="e#47941#47970#0" expanded="true" />
+                <element signature="e#48247#48302#0" expanded="true" />
+                <element signature="e#51443#51453#0" expanded="true" />
+                <element signature="e#86231#93541#0" expanded="true" />
+                <element signature="e#118436#120033#0" expanded="true" />
+                <element signature="e#124792#126628#0" expanded="true" />
+                <element signature="e#127897#128052#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shaders/Frag/frag.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -81,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shaders/Vertex/vert.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="324">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -90,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shader.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="206">
+              <caret line="75" column="15" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="15" />
               <folding>
                 <element signature="e#1#23#0" expanded="true" />
               </folding>
@@ -99,20 +152,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://C:/workspace/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="289" column="69" lean-forward="true" selection-start-line="289" selection-start-column="69" selection-end-line="289" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shader.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            <state relative-caret-position="756">
+              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
               <folding>
                 <element signature="e#35#85#0" expanded="true" />
               </folding>
@@ -123,8 +167,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/glad/glad.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="3046" column="26" selection-start-line="3046" selection-start-column="26" selection-end-line="3046" selection-end-column="26" />
+            <state relative-caret-position="305">
+              <caret line="2315" column="22" selection-start-line="2315" selection-start-column="8" selection-end-line="2315" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -139,30 +183,36 @@
       <find>framebuffer_size_callback</find>
       <find>aColor</find>
       <find>open</find>
+      <find>STB_IMAGE_IMPLEMENTATION</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Shaders/Frag/frag.fs" />
-        <option value="$PROJECT_DIR$/Shaders/Vertex/vert.fs" />
-        <option value="$PROJECT_DIR$/Shader.cpp" />
         <option value="$PROJECT_DIR$/Shader.h" />
+        <option value="$PROJECT_DIR$/Shader.cpp" />
+        <option value="$PROJECT_DIR$/stb_image.h" />
+        <option value="$PROJECT_DIR$/Shaders/Vertex/vert.fs" />
+        <option value="$PROJECT_DIR$/Shaders/Frag/frag.fs" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="45" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="352" />
+    <option name="y" value="717" />
     <option name="width" value="1936" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -175,6 +225,11 @@
             <path>
               <item name="LearnOpengl" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnOpengl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpengl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpengl" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnOpengl" type="b2602c69:ProjectViewProjectNode" />
@@ -193,6 +248,11 @@
               <item name="Shaders" type="462c0819:PsiDirectoryNode" />
               <item name="Vertex" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnOpengl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpengl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,9 +260,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\CLionProjects\LearnOpengl\Resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,28 +317,29 @@
       <workItem from="1563751276911" duration="1858000" />
       <workItem from="1564524584175" duration="3948000" />
       <workItem from="1564611800078" duration="5965000" />
+      <workItem from="1564697147179" duration="5568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11771000" />
+    <option name="totallyTimeSpent" value="17339000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="414" y="26" width="1936" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31310943" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.310559" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.33044422" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32712215" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -288,27 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/glad/glad.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="3046" column="26" selection-start-line="3046" selection-start-column="26" selection-end-line="3046" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extern/glfw/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -316,54 +368,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shaders/Vertex/vert.fs">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shaders/Frag/frag.fs">
+    <entry file="file://$PROJECT_DIR$/extern/glfw/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="2430">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Shader.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        <state relative-caret-position="756">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
           <folding>
             <element signature="e#35#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://C:/workspace/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="146" column="18" lean-forward="true" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="302">
+          <caret line="285" column="50" selection-start-line="285" selection-start-column="50" selection-end-line="285" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/glad/glad.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="2315" column="22" selection-start-line="2315" selection-start-column="8" selection-end-line="2315" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Shader.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="206">
+          <caret line="75" column="15" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="15" />
           <folding>
             <element signature="e#1#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/workspace/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream">
+    <entry file="file://$PROJECT_DIR$/Shaders/Vertex/vert.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="289" column="69" lean-forward="true" selection-start-line="289" selection-start-column="69" selection-end-line="289" selection-end-column="69" />
+        <state relative-caret-position="324">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stb_image.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="383" selection-start-line="383" selection-end-line="383" />
+          <folding>
+            <element signature="e#14247#14269#0" expanded="true" />
+            <element signature="e#15822#15915#0" expanded="true" />
+            <element signature="e#20719#21239#0" expanded="true" />
+            <element signature="e#21330#21350#0" expanded="true" />
+            <element signature="e#21360#21379#0" expanded="true" />
+            <element signature="e#21762#21788#0" expanded="true" />
+            <element signature="e#21879#21898#0" expanded="true" />
+            <element signature="e#21918#21951#0" expanded="true" />
+            <element signature="e#21977#22122#0" expanded="true" />
+            <element signature="e#22419#22453#0" expanded="true" />
+            <element signature="e#22525#22547#0" expanded="true" />
+            <element signature="e#22581#22616#0" expanded="true" />
+            <element signature="e#22800#22805#0" expanded="true" />
+            <element signature="e#22927#23028#0" expanded="true" />
+            <element signature="e#23433#23457#0" expanded="true" />
+            <element signature="e#23565#24057#0" expanded="true" />
+            <element signature="e#24182#24801#0" expanded="true" />
+            <element signature="e#24956#25481#0" expanded="true" />
+            <element signature="e#25967#25983#0" expanded="true" />
+            <element signature="e#26009#26143#0" expanded="true" />
+            <element signature="e#26176#26221#0" expanded="true" />
+            <element signature="e#34402#34427#0" expanded="true" />
+            <element signature="e#34467#34503#0" expanded="true" />
+            <element signature="e#40948#41317#0" expanded="true" />
+            <element signature="e#41378#41572#0" expanded="true" />
+            <element signature="e#41715#42095#0" expanded="true" />
+            <element signature="e#42144#42192#0" expanded="true" />
+            <element signature="e#47396#47452#0" expanded="true" />
+            <element signature="e#47941#47970#0" expanded="true" />
+            <element signature="e#48247#48302#0" expanded="true" />
+            <element signature="e#51443#51453#0" expanded="true" />
+            <element signature="e#86231#93541#0" expanded="true" />
+            <element signature="e#118436#120033#0" expanded="true" />
+            <element signature="e#124792#126628#0" expanded="true" />
+            <element signature="e#127897#128052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shaders/Frag/frag.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="202" column="57" selection-start-line="202" selection-start-column="57" selection-end-line="202" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

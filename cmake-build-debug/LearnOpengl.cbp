@@ -212,6 +212,9 @@
 		<Unit filename="C:/Users/Administrator/CLionProjects/LearnOpengl/src/glad.c">
 			<Option target="LearnOpengl"/>
 		</Unit>
+		<Unit filename="C:/Users/Administrator/CLionProjects/LearnOpengl/stb_image.h">
+			<Option target="LearnOpengl"/>
+		</Unit>
 		<Unit filename="C:/Users/Administrator/CLionProjects/LearnOpengl/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

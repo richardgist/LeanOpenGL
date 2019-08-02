@@ -16,4 +16,5 @@ CMakeFiles/LearnOpengl.dir/main.cpp.obj: ../include/glad/glad.h
 CMakeFiles/LearnOpengl.dir/main.cpp.obj: ../Shader.h
 CMakeFiles/LearnOpengl.dir/main.cpp.obj: ../include/glad/glad.h
 CMakeFiles/LearnOpengl.dir/main.cpp.obj: ../main.cpp
+CMakeFiles/LearnOpengl.dir/main.cpp.obj: ../stb_image.h
 
